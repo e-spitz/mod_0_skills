@@ -9,7 +9,7 @@
 * address (string)
 
 **Methods**
-* updateManager (modifies manager string and changes name)
+* updateManager (modifies manager attribute and changes name)
 * addPatioSeating (increases seatingCapacity attribute as well as squareFootage attribute)
 * openRestaurant (updates isOpen attribute)
 * hireEmployee (updates employees attribute)
