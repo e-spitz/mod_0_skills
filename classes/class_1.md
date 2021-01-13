@@ -2,7 +2,7 @@
 
 **Attributes**
 * manager (string)
-* telephoneNumber (integer)
+* telephoneNumber (string)
 * seatingCapacity (integer)
 * isOpen (boolean)
 * employees (array)

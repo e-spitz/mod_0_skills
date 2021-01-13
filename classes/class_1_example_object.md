@@ -2,7 +2,7 @@
 
 **Attributes**
 * manager = "John Smith"
-* telephoneNumber = 801-349-2948
+* telephoneNumber = "801-349-2948"
 * seatingCapacity = 150
 * isOpen = false
 * employees = ["Sarah Williams", "Harry Styles", "Joe Schmoe", "William Jackson", "John Smith"]
