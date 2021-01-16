@@ -7,7 +7,7 @@ food = "Pho";
 
 var num2 = 26
 var num7 = 32
-var quotient = 32/26;
+var quotient = num7/num2;
 
 var songs = ["Blackdog", "Blackbird", "Black Betty"]
 songs.splice(0,1);
