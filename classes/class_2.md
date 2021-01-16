@@ -8,6 +8,6 @@
 
 **Methods**
 * addItemToMenu (increases numberOfItems attribute)
-* mealTypes (add or removes mealTypes attribute)
+* modifyMealTypes (adds or removes mealTypes attribute)
 * addPlantProtein (updates veganFriendly boolean)
 * addLunchMenu (updates lunchMenu boolean)
