@@ -8,6 +8,6 @@
 
 **Methods**
 * addItemToMenu (increase numberOfItems = 32 + 1)
-* mealTypes (add "Soups" to mealTypes array)
+* modifyMealTypes (add "Soups" to mealTypes array)
 * addPlantProtein (updates veganFriendly = true)
 * addLunchMenu (updates lunchMenu = true)
